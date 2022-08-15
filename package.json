@@ -1,0 +1,9 @@
+{
+  "name": "mangaBot",
+  "version": "1.0.0",
+  "description": "A bot that searches if any new chapter of requested manga has been released on MangaLivre website",
+  "main": "index.js",
+  "repository": "https://github.com/mattorresag/mangaBot",
+  "author": "Matheus Torres",
+  "license": "MIT"
+}
